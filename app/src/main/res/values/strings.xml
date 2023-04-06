@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Selvy\nPassport</string>
+
+    <string name="camera_error">This device doesn\'t support Camera.</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+
+    <string name="type">종류</string>
+    <string name="issuing_country">발급 국가</string>
+    <string name="surname">성명(성)</string>
+    <string name="given_names">성명(이름)</string>
+    <string name="passport_no">여권 번호</string>
+    <string name="nationality">국적</string>
+    <string name="date_of_birth">생년월일</string>
+    <string name="sex">성별</string>
+    <string name="date_of_issue">발급날짜</string>
+    <string name="date_of_expiry">만료날짜</string>
+    <string name="personal_no">주민번호</string>
+    <string name="authority">Authority</string>
+</resources>
